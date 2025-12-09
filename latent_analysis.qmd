@@ -34,10 +34,8 @@ library(here)
 library(readr)
 library(dplyr)
 library(sjPlot)
-library(psych)
 library(lavaan)
 library(semoutput)
-library(semTools)
 ```
 
 # Data
